@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.class
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.log
